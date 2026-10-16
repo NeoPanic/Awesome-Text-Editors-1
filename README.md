@@ -32,6 +32,7 @@
 - [⚡ Open-Source Text Editors & IDEs](#-open-source-text-editors--ides)
 - [🎯 Quick Decision Guide](#-quick-decision-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Licensing](#-disclaimer--licensing)
 
@@ -201,6 +202,27 @@ Contributions, updates, and corrections are warmly welcomed!
    - For SaaS: Name, parent company, scale, starting price, exact free tier limits, and highlights.
    - For Open Source: Name, repository link, star badge, and concise technical description. Maintain the descending star order.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome Text Editors**! If you find this curated directory helpful for your development workflow, text editing setup, or tooling research, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help boost visibility so other developers can discover it.
+- 🍴 **Fork the repo** to keep your own reference copy or contribute enhancements.
+- 📢 **Share it** with your friends, colleagues, developer teams, and tech communities.
+- ☕ **Buy Me a Coffee / Sponsor the Author**: Support continuous curation and maintenance of developer tooling guides through the Sponsor Dashboard:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Author-%E2%9D%A4-ff69b4?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
