@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Text-Editors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Editors?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Text-Editors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Editors?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Editors/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-Editors?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Editors/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Text-Editors?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Text-Editors/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -78,7 +78,7 @@ The following table compares leading commercial and proprietary SaaS text editor
 
 ## ⚡ Open-Source Text Editors & IDEs
 
-The following open-source projects are sorted in **descending order by GitHub star count**. Beside each project name is a social star badge linking directly to that repository's stargazers page.
+The following open-source projects are sorted in **descending order by GitHub Stars_Count**. Beside each project name is a social Stars_Badge linking directly to that repository's stargazers page.
 
 1. **[Visual Studio Code (Code-OSS)](https://github.com/microsoft/vscode)** [![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers)  
    The world's most widely adopted code editor. Features deep ecosystem extensions, integrated terminal, interactive debugger, and Git version control.
@@ -200,7 +200,7 @@ Contributions, updates, and corrections are warmly welcomed!
 2. 🌿 **Create a feature branch** (`git checkout -b add-editor-name`).
 3. 📝 **Add your entry** under the appropriate section following the existing format:
    - For SaaS: Name, parent company, scale, starting price, exact free tier limits, and highlights.
-   - For Open Source: Name, repository link, star badge, and concise technical description. Maintain the descending star order.
+   - For Open Source: Name, repository link, Stars_Badge, and concise technical description. Maintain the descending star order.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
 ---
