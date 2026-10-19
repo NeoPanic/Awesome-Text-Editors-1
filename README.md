@@ -176,6 +176,9 @@ The following open-source projects are sorted in **descending order by GitHub St
 32. **[Kate](https://github.com/KDE/kate)** [![Stars](https://img.shields.io/github/stars/KDE/kate?style=social&color=white)](https://github.com/KDE/kate/stargazers)  
     KDE's native, multi-document advanced text editor featuring syntax highlighting for 300+ languages, integrated Konsole terminal, and native LSP support.
 
+33. **[Glim](https://github.com/NeoPanic/Glim)** [![Stars](https://img.shields.io/github/stars/NeoPanic/Glim?style=social&color=white)](https://github.com/NeoPanic/Glim/stargazers)  
+    MIT-licensed macOS file viewer and basic UTF-8 text editor built with Rust and GPUI Kit. Supports autosave, Markdown/diagram previews and local Git diff review; available for Apple Silicon and Intel.
+
 ---
 
 ## 🎯 Quick Decision Guide
